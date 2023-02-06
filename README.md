@@ -16,3 +16,7 @@ It did, and so did the vi commands, so here's another link to the git commands I
 
 [Useful git commands thanks nobel desktop](https://www.nobledesktop.com/learn/git/stage-commit-files#:~:text=Stage%20Files%20to%20Prepare%20for%20Commit%201%201.,see%20there%20are%20changes%20ready%20to%20be%20committed.)
 
+
+Quick update for today, there's also an online Markdown tutorial which could be found to be useful.
+
+[Learning Markdown online](https://commonmark.org/help/tutorial/index.html)
